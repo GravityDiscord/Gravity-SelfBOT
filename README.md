@@ -1,6 +1,9 @@
 # Gravity SelfBOT
 A discord Selfbot for everything.
 
+
+TUTORIEL VIDÉO :  https://youtu.be/RTXrOx8fiIA
+
 #FRANCAIS
 
 Pour utiliser le Selfbot, il faut compléter les paramètres :
